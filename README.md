@@ -15,7 +15,7 @@ Yo will need Unity V.2017.4.17f1
 * [__Juan Camilo Useche__](https://github.com/zlcastaneda10)
 
 ## Contributing
-If anyone wants to give us any help or ideas, you can by making new [Issues](https://github.com/JuanCamiloUsecheRodriguez/Earthquake-simulation/issues) or a [Pull request](https://github.com/JuanCamiloUsecheRodriguez/Earthquake-simulation/pulls).)
+If anyone wants to give us any help or ideas, you can by making new [Issues](https://github.com/JuanCamiloUsecheRodriguez/Earthquake-simulation/issues) or a [Pull request](https://github.com/JuanCamiloUsecheRodriguez/Earthquake-simulation/pulls).
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
